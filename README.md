@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 👯 I am looking to collaborate with developers to build exciting real-world projects for clients.<br>
 💬 Ask me about python, machine learning, C++, data analysis, HTML, CSS, JavaScript, SQL, ReactJS, Computer Vision <br>
 👨‍💻 I have created a unique project named as Raksha - Employee Monitoring system for a client during my internship. <br>
-⚡ You can go and checkout on my GitHub account tanishpophale53<br><br>
+⚡ You can go and checkout my exciting projects on my GitHub account tanishpophale53<br><br>
 
 
 ## 🌐 Socials:
