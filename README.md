@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me
-🌱 I am a fresher graduated from 2023 batch with 6 months of internship experience as python developer at Hixaa Technologies Pvt Limited<br>
+🌱 I am a fresher graduated graduated as computer science engineer from 2023 batch<br>
+🔭 I have 6 months of internship experience as python developer at Hixaa Technologies Pvt Limited <br>
 📫 I am passionate about learning new technologies and currently learning Django and ReactJS  <br>
 👯 I am looking to collaborate with developers to build exciting real-world projects for clients.<br>
 💬 Ask me about python, machine learning, C++, data analysis, HTML, CSS, JavaScript, SQL, ReactJS, Computer Vision <br>
