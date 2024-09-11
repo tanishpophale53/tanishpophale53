@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me
-🌱 I am a fresher graduated as computer science engineer from 2023 batch<br>
-🔭 I have 6 months of internship experience as python developer at Hixaa Technologies Pvt Limited <br>
+🌱 I have completed my graduation from Government College of Engineering, Nagpur in computer science branch - 2023 batch<br>
+🔭 I have 10 months of internship experience working as python and website developer at Hixaa Technologies Pvt Limited, Nagpur <br>
 📫 I am passionate about learning new technologies and currently learning Django and ReactJS  <br>
-👯 I am looking to collaborate with developers to build exciting real-world projects for clients.<br>
-🔭 I am currently working on developing a hospital website for a client.<br>
+👯 I am looking to collaborate with developers to build industry required and exciting real world projects for clients.<br>
 💬 Ask me about python, machine learning, C++, data analysis, HTML, CSS, JavaScript, SQL, ReactJS, Computer Vision <br>
-👨‍💻 I have created a unique project named as Raksha - Employee Monitoring system for a client during my internship. <br>
+👨‍💻 I have created a unique project named as Raksha - Employee Monitoring system for clients like Adani, NTPC during my internship. <br>
 ⚡ You can go and checkout my exciting projects on my GitHub account tanishpophale53<br><br>
 
 
