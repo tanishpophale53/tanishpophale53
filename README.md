@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me
-🔭 I have 10 months of internship experience working as python and website developer at Hixaa Technologies Pvt Limited<br>
+🔭 I am having 10 months of internship experience working as python and website developer at Hixaa Technologies Pvt Limited<br>
 🌱 I have completed my graduation from Government College of Engineering, Nagpur in computer science branch - 2023 batch<br>
 📫 I am passionate about learning new technologies and currently learning Django and ReactJS  <br>
 👯 I am looking to collaborate with developers to build industry required and exciting real world projects for clients.<br>
