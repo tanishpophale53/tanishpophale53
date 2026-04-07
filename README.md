@@ -3,13 +3,6 @@
 ### Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability
 
 I build reliable backend systems that handle real-world traffic, failures, retries, and scale with confidence.
-
-
-<div align="center">
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Tanish%20Pophale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20·%20Distributed%20Systems%20·%20Payment%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn"/>
- 
-</div>
  
 <div align="center">
  
@@ -136,6 +129,8 @@ Worked on IoT, monitoring systems, telemetry, and software improvements for indu
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/tanish-pophale/) • [GitHub](https://github.com/tanishpophale53)
+[LinkedIn](https://www.linkedin.com/in/tanish-pophale/) • [GitHub](https://github.com/tanishpophale53
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-pophale)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpophale@gmail.com)
 
 > Reliable systems are engineered, not hoped for.
