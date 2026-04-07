@@ -84,13 +84,6 @@ Worked on IoT, monitoring systems, telemetry, and software improvements for indu
 
 ---
 
-## Education
-
-**Government College of Engineering, Nagpur**  
-B.E. in Computer Science — CGPA: 7.71/10
-
----
-
 ## Currently Exploring
 
 - Distributed systems design patterns
