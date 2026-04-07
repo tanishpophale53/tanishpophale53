@@ -1,4 +1,4 @@
-# Hi, I'm Tanish Pophale 👋
+<h1 align="center">Hi, I'm Tanish Pophale 👋</h1>
 
 <div align="center">
  
