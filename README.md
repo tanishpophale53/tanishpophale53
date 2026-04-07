@@ -1,5 +1,5 @@
 <div style="text-align: center; font-weight: bold; font-size: 24px;">
-   <span font-weight: bold; font-size: 24px>Hi, I'm Tanish Pophale 👋</span>
+   Hi, I'm Tanish Pophale 👋
 </div>
  
 <div align="center">
