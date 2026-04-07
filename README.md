@@ -23,17 +23,42 @@ I build reliable backend systems for **payments, messaging, and observability** 
 
 ## 🛠️ What I Work With
 
-### 🔵 Core
-`Java` `Spring Boot` `PostgreSQL` `MySQL` `Kafka` `Redis` `Docker` `AWS`
+### 🔵 Core Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### ⚡ Backend & APIs
-`REST APIs` `WebSocket` `WebClient` `Webhooks` `Idempotency` `Authentication` `Retry Patterns`
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-4B8BBE?style=for-the-badge)
+![WebClient](https://img.shields.io/badge/WebClient-6A1B9A?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-8E44AD?style=for-the-badge)
+![Idempotency](https://img.shields.io/badge/Idempotency-2E86C1?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-1F618D?style=for-the-badge)
+![Retry Patterns](https://img.shields.io/badge/Retry_Patterns-117A65?style=for-the-badge)
 
 ### 📊 Infra & Ops
-`Grafana` `Loki` `Linux` `Git` `Shell Scripting`
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-4B32C3?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🧩 Other
-`Python` `MongoDB` `Machine Learning` `Data Analysis` `Natural Language Processing` `JavaScript` `React` `C++` `Raspberry Pi`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-00A6FB?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
 
