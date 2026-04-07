@@ -104,8 +104,8 @@ Worked on **IoT systems, telemetry pipelines, and industrial monitoring solution
 - 💳 Payment infrastructure at scale
 - 📊 Observability & system reliability
 - ⚡ Event-driven architectures
-- Amazon Web Services (AWS)
-- LangChain, Langgraph, Artificial Intelligence
+- ☁️ Amazon Web Services (AWS)
+- 🤖 Artificial Intelligence (LangChain, LangGraph)
 
 ---
 
