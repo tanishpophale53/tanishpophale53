@@ -6,9 +6,14 @@
  
 </div>
 
-### 🚀 Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability
+<div align="center">
+  <h3>🚀 Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability</h3>
 
-I build reliable backend systems for **payments, messaging, and observability** that handle real-world traffic, failures, retries, and scale.
+  <p>
+    I build reliable backend systems for <strong>payments, messaging, and observability</strong>
+    that handle real-world traffic, failures, retries, and scale.
+  </p>
+</div>
 
 ---
 
