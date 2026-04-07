@@ -1,107 +1,118 @@
 # Hi, I'm Tanish Pophale 👋
 
-### Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability
+### 🚀 Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability
 
-I build reliable backend systems for payments, messaging, and observability that handle real-world traffic, retries, and scale.
+I build reliable backend systems for **payments, messaging, and observability** that handle real-world traffic, failures, retries, and scale.
 
 ---
 
-## About Me
+## 🧠 About Me
 
 - 🎯 Currently working as **Jr. Software Developer at Pinnacle Teleservices Pvt. Ltd.**
-- 🧩 Building backend services around **payment workflows, async processing, messaging, observability, and location workflows**
-- 🚀 Focused on **production-grade engineering** with reliability, consistency, and scalability in mind
-- 🌱 Deepening my understanding of **distributed systems, system design, and cloud-native engineering**
+- 🧩 Building backend systems around **payments, async processing, messaging & observability**
+- ⚙️ Focused on **reliability, scalability, and system consistency**
+- 🌱 Deep-diving into **distributed systems & cloud-native architecture**
 
 ---
 
-## What I Work With
+## 🛠️ What I Work With
 
-**Core**
+### 🔵 Core
 `Java` `Spring Boot` `PostgreSQL` `MySQL` `Kafka` `Redis` `Docker` `AWS`
 
-**Backend & APIs**
+### ⚡ Backend & APIs
 `REST APIs` `WebSocket` `WebClient` `Webhooks` `Idempotency` `Authentication` `Retry Patterns`
 
-**Infra & Ops**
+### 📊 Infra & Ops
 `Grafana` `Loki` `Linux` `Git` `Shell Scripting`
 
-**Other**
+### 🧩 Other
 `Python` `MongoDB` `JavaScript` `React` `C++` `Raspberry Pi`
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
-### Priox — Smart QR-Based Printing Platform
-A QR-based printing platform where users scan, upload documents, pay securely, and trigger automated print jobs.
+### 🖨️ Priox — Smart QR-Based Printing Platform
+A QR-based platform where users **scan → upload → pay → print** without manual intervention.
 
 - ⚡ Real-time dispatch using **WebSocket**
 - ☁️ Secure uploads with **AWS pre-signed URLs**
 - 🔁 Fault-tolerant order flow using **Outbox pattern + retries**
 - 💳 Payment integration with **Razorpay**
-- 📉 Reduced manual intervention by ~90%
+- 📉 Reduced manual intervention by **~90%**
 
-### Payment Processing & Middleware
+---
+
+### 💳 Payment Processing & Middleware
 Reliable backend workflows for payment handling and reconciliation.
 
-- Idempotent APIs for safe retries
-- Webhook-driven state transitions
-- Cryptographic signature validation
-- Duplicate request protection
-- Async reconciliation and archival workflows
-
-### High-Throughput SMS Dispatch Engine
-A multithreaded job retrieval and dispatch system for bulk communication.
-
-- Built using **Spring WebClient**
-- Improved throughput by **20%**
-- Reduced latency by **40%**
-
-### Observability Automation
-A Dockerized setup for dashboard and logging automation.
-
-- Auto-provisioned **Loki** data sources
-- Generated **Grafana** dashboards via API
-- Reduced environment setup time by **15–20 minutes**
-
-### RakshaIOT
-Python-based entry/exit monitoring system for industrial use cases.
-
-- RFID-based worker monitoring
-- Shell-scripted deployment
-- Improved maintainability and reliability
+- 🔐 Idempotent APIs for safe retries
+- 🔁 Webhook-driven state transitions
+- 🛡️ Cryptographic signature validation
+- 🚫 Duplicate request protection
+- ♻️ Async reconciliation & archival workflows
 
 ---
 
-## Experience
+### 📨 High-Throughput SMS Dispatch Engine
+A multithreaded system for bulk communication processing.
 
-### Jr. Software Developer — Pinnacle Teleservices Pvt. Ltd.
-Building backend services around payments, messaging, observability, and location workflows.
-
-### Python Developer Intern — Hixaa Technologies Pvt. Ltd.
-Worked on IoT, monitoring systems, telemetry, and software improvements for industrial use cases.
+- ⚡ Built using **Spring WebClient**
+- 📈 Improved throughput by **20%**
+- ⏱️ Reduced latency by **40%**
 
 ---
 
-## Education
+### 📊 Observability Automation
+Automated monitoring setup using Docker and APIs.
+
+- ⚙️ Auto-provisioned **Loki** data sources
+- 📊 Generated **Grafana** dashboards via API
+- ⏱️ Reduced setup time by **15–20 minutes**
+
+---
+
+### 🏭 RakshaIOT
+Python-based industrial monitoring system.
+
+- 📡 RFID-based worker tracking
+- 🐚 Shell-based deployment
+- 🔧 Improved maintainability & reliability
+
+---
+
+## 💼 Experience
+
+### 💻 Jr. Software Developer — Pinnacle Teleservices Pvt. Ltd.
+Building backend systems for **payments, messaging, observability, and geospatial workflows**
+
+### 🐍 Python Developer Intern — Hixaa Technologies Pvt. Ltd.
+Worked on **IoT systems, telemetry pipelines, and industrial monitoring solutions**
+
+---
+
+## 🎓 Education
 
 **Government College of Engineering, Nagpur**  
-B.E. in Computer Science — CGPA: 7.71/10
+B.E. in Computer Science — CGPA: **7.71/10**
 
 ---
 
-## Currently Exploring
+## 🔍 Currently Exploring
 
-- Distributed systems design patterns
-- Payment infrastructure
-- API reliability and observability
-- Event-driven architectures
+- 🧠 Distributed systems design patterns
+- 💳 Payment infrastructure at scale
+- 📊 Observability & system reliability
+- ⚡ Event-driven architectures
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/tanish-pophale/) • [GitHub](https://github.com/tanishpophale53)
+🔗 [LinkedIn](https://www.linkedin.com/in/tanish-pophale/)  
+💻 [GitHub](https://github.com/tanishpophale53)
 
-> Reliable systems are engineered, not hoped for.
+---
+
+> 💡 *Reliable systems are engineered, not hoped for.*
