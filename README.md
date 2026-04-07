@@ -111,8 +111,8 @@ Worked on **IoT systems, telemetry pipelines, and industrial monitoring solution
 
 ## 🤝 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/tanish-pophale/)  
-💻 [GitHub](https://github.com/tanishpophale53)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-pophale)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpophale@gmail.com)
 
 ---
 
