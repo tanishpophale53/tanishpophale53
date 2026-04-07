@@ -33,7 +33,7 @@ I build reliable backend systems for **payments, messaging, and observability** 
 `Grafana` `Loki` `Linux` `Git` `Shell Scripting`
 
 ### 🧩 Other
-`Python` `MongoDB` `JavaScript` `React` `C++` `Raspberry Pi`
+`Python` `MongoDB` `Machine Learning` `Data Analysis` `Natural Language Processing` `JavaScript` `React` `C++` `Raspberry Pi`
 
 ---
 
@@ -98,19 +98,14 @@ Worked on **IoT systems, telemetry pipelines, and industrial monitoring solution
 
 ---
 
-## 🎓 Education
-
-**Government College of Engineering, Nagpur**  
-B.E. in Computer Science — CGPA: **7.71/10**
-
----
-
 ## 🔍 Currently Exploring
 
 - 🧠 Distributed systems design patterns
 - 💳 Payment infrastructure at scale
 - 📊 Observability & system reliability
 - ⚡ Event-driven architectures
+- Amazon Web Services (AWS)
+- LangChain, Langgraph, Artificial Intelligence
 
 ---
 
