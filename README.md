@@ -8,7 +8,7 @@ I build reliable backend systems that handle real-world traffic, failures, retri
 
 ## About Me
 
-- 🎯 Currently working as **Jr. Software Developer at Pinnacle Teleservices Pvt. Ltd.**
+- 🎯 Currently working as **Jr. Software Developer (Java, SpringBoot) at Pinnacle Teleservices Pvt. Ltd.**
 - 🧩 Focused on **payment workflows, backend architecture, async processing, and observability**
 - 🚀 Passionate about building **production-grade systems** instead of just demo projects
 - 🌱 Continuously learning **system design, distributed systems, and cloud-native engineering**
