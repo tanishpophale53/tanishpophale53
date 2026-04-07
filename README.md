@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability</h3>
+  <h3>🚀 Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Artificial Intelligence</h3>
 
   <p>
     I build reliable backend systems for <strong>payments, messaging, and observability</strong>
