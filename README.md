@@ -17,7 +17,7 @@ I build reliable backend systems that handle real-world traffic, failures, retri
 
 ## What I Work With
  
-<div align="center">
+<div align="left">
  
 **Core Backend**
  
