@@ -1,5 +1,11 @@
 # Hi, I'm Tanish Pophale 👋
 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=☕+Java+Backend+Engineer;🏗️+Building+Systems+That+Don't+Break+at+3+AM;💳+Payment+Infrastructure+%7C+Kafka+%7C+Redis+%7C+AWS;🔭+Currently+Building+Priox+—+QR+Printing+Platform;🛡️+Making+Invisible+Services+Predictable)](https://git.io/typing-svg)
+ 
+</div>
+
 ### 🚀 Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability
 
 I build reliable backend systems for **payments, messaging, and observability** that handle real-world traffic, failures, retries, and scale.
