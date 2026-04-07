@@ -98,12 +98,21 @@ Worked on **IoT systems, telemetry pipelines, and industrial monitoring solution
 
 ---
 
+## 🏆 Achievements
+
+- 🥇 Architected fault-tolerant payment processing workflows with idempotent APIs and webhook-driven state transitions
+- 🚀 Built scalable backend systems for messaging, observability, and location workflows
+- ⚡ Improved SMS dispatch throughput by 20% and reduced latency by 40%
+- 📈 Reduced manual intervention by ~90% in the QR-based printing platform
+
+---
+
 ## 🔍 Currently Exploring
 
 - 🧠 Distributed systems design patterns
-- 💳 Payment infrastructure at scale
 - 📊 Observability & system reliability
-- ⚡ Event-driven architectures
+- 🤖 Scaling WhatsApp Automation Systems
+- 💳 Event-driven architectures
 - ☁️ Amazon Web Services (AWS)
 - 🤖 Artificial Intelligence (LangChain, LangGraph)
 
