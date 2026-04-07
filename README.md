@@ -4,6 +4,28 @@
 
 I build reliable backend systems that handle real-world traffic, failures, retries, and scale with confidence.
 
+
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Tanish%20Pophale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20·%20Distributed%20Systems%20·%20Payment%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn"/>
+ 
+</div>
+ 
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=☕+Java+Backend+Engineer;🏗️+Building+Systems+That+Don't+Break+at+3+AM;💳+Payment+Infrastructure+%7C+Kafka+%7C+Redis+%7C+AWS;🔭+Currently+Building+Priox+—+QR+Printing+Platform;🛡️+Making+Invisible+Services+Predictable)](https://git.io/typing-svg)
+ 
+<br/>
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-pophale)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpophale@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishpophale53)
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=tanishpophale53&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/tanishpophale53?style=for-the-badge&color=58A6FF&labelColor=1a1b27)
+ 
+</div>
+
 ---
 
 ## About Me
