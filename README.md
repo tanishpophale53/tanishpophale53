@@ -98,7 +98,7 @@ Python-based entry/exit monitoring system for industrial use cases.
 ### Jr. Software Developer — Pinnacle Teleservices Pvt. Ltd.
 Building backend services around payments, messaging, observability, and location workflows.
 
-### Python Developer Intern — Hixaa Technologies Pvt. Ltd.
+### Python Developer Trainee — Hixaa Technologies Pvt. Ltd.
 Worked on IoT, monitoring systems, telemetry, and software improvements for industrial use cases.
 
 ---
