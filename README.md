@@ -1,206 +1,344 @@
 <div align="center">
 
-# 👋 Hi, I'm Tanish Pophale
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Tanish%20Pophale&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Engineer%20·%20Distributed%20Systems%20·%20Payment%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-### ☕ Java Backend Engineer · Building Systems That Don't Break at 3 AM
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Spring+Boot+%7C+Distributed+Systems;Payment+Infrastructure+%7C+Kafka+%7C+Redis;Building+Reliable%2C+Observable+Backend+Services)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=☕+Java+Backend+Engineer;🏗️+Building+Systems+That+Don't+Break+at+3+AM;💳+Payment+Infrastructure+%7C+Kafka+%7C+Redis+%7C+AWS;🔭+Currently+Building+Priox+—+QR+Printing+Platform;🛡️+Making+Invisible+Services+Predictable)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-pophale)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpophale@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishpophale53)
 
+![Profile Views](https://komarev.com/ghpvc/?username=tanishpophale53&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/tanishpophale53?style=for-the-badge&color=58A6FF&labelColor=1a1b27)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me — In Code
 
 ```java
-public class TanishPophale extends BackendEngineer {
+@Engineer
+public class TanishPophale {
 
-    private final String role     = "Java Backend Engineer @ Pinnacle Teleservices";
-    private final String location = "Nagpur, Maharashtra, India 🇮🇳";
-    private final String focus    = "Distributed Systems · Payment Infrastructure · Observability";
+    // 📍 Who I Am
+    String name     = "Tanish Pophale";
+    String role     = "Java Backend Engineer";
+    String company  = "Pinnacle Teleservices Pvt. Ltd.";
+    String location = "Nagpur, Maharashtra, India 🇮🇳";
+    String motto    = "Reliable systems don't happen by accident — they're engineered.";
 
-    private final String[] currentlyBuilding = {
-        "Priox — QR-Based Smart Printing Platform (Spring Boot + WebSocket + AWS)",
-        "Fault-tolerant payment middleware with Razorpay, CCAvenue & WhatsApp Payments",
-        "Dockerized Grafana/Loki observability pipelines"
+    // 🔨 What I'm Building Right Now
+    String[] currentlyBuilding = {
+        "🖨️  Priox — QR-Based Smart Printing Platform (Spring Boot + WebSocket + AWS)",
+        "💳  Fault-tolerant payment middleware: Razorpay · CCAvenue · WhatsApp Payments",
+        "📊  Dockerized Grafana/Loki auto-provisioning pipeline"
     };
 
-    private final String[] coreBeliefs = {
-        "Reliable systems are engineered, not hoped for",
-        "Every failing transaction is a story waiting to be debugged",
-        "Observability is not optional — it's the foundation"
+    // 📚 What I'm Deep-Diving Into
+    String[] currentlyLearning = {
+        "📖  Distributed System Design Patterns (Saga · CQRS · Event Sourcing)",
+        "🔐  Advanced API Security — RS256 JWTs · Token Blacklisting · Rate Limiting",
+        "⚙️  PgBouncer connection pooling & PostgreSQL query optimization"
     };
 
-    public String getMotivation() {
-        return "I turn invisible backend complexity into predictable, measurable, production-grade systems.";
-    }
+    // 🤝 Open To
+    String[] openTo = {
+        "Backend Engineering Roles — Distributed Systems · Payment Platforms",
+        "Developer Infrastructure · Observability Engineering",
+        "Open Source Contributions in Java / Spring Ecosystem"
+    };
+
+    // 💬 Ask Me About
+    String[] askMeAbout = {
+        "Spring Boot Architecture", "Payment Gateway Integration",
+        "Kafka & Redis Design Patterns", "Docker & Observability Pipelines",
+        "IoT with Raspberry Pi", "Python Automation & Scripting"
+    };
+
+    // ⚡ Fun Facts
+    String[] funFacts = {
+        "🏆 Won 1st Place at India's Biggest EV Innovation Challenge (150+ teams)",
+        "🤖 Built a real-time facial recognition attendance system with ML + Python",
+        "📦 Once reduced a project's download time from 25 min → under 5 min with PyInstaller",
+        "🚀 Building Priox — because printing shouldn't require 10 manual steps"
+    };
 }
 ```
 
 ---
 
+## 🏆 Achievements Snapshot
+
+<div align="center">
+
+| 🥇 | Achievement | Impact |
+|:---:|---|---|
+| 🏆 | **1st Place — ICreate EV Innovation Challenge** | Competing against 150+ teams nationwide |
+| ⚡ | **40% Latency Reduction** | Multithreaded SMS dispatch engine at Pinnacle |
+| 📈 | **20% Throughput Boost** | Spring WebClient batched dispatching |
+| ⏱️ | **15–20 min Saved / Environment** | Grafana/Loki auto-provisioning pipeline |
+| 📦 | **25 min → <5 min Download** | PyInstaller packaging for RakshaIOT |
+| 🤖 | **~90% Manual Intervention Reduced** | Priox automated print job lifecycle |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
-### 🔵 Core — What I Work With Daily
+### 🔵 Core — Java Backend
+<div align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+### 🟢 Infrastructure & DevOps
+<div align="center">
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🟢 Observability & Infrastructure
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🟡 Languages & Supporting Stack
+</div>
+
+### 🟡 Languages & Frontend
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔴 IoT & Hardware
+</div>
+
+### 🔴 IoT & Embedded
+<div align="center">
+
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+
+</div>
 
 ---
 
-## 💼 What I've Built
-
-### 🖨️ Priox — Smart QR-Based Printing Platform *(Mar 2026 – Present)*
-> *Spring Boot · WebSocket · AWS S3 · Razorpay · Outbox Pattern*
-
-A production-grade QR-based printing platform that lets users **scan → upload → pay → print** — fully automated.
-
-- ⚡ **Sub-second order dispatch** via WebSocket + Python-based vendor agent
-- 🔁 **Zero order loss** using Outbox pattern, retry mechanisms & ACK-based tracking
-- ☁️ **AWS pre-signed URLs** for secure multipart document uploads
-- 💳 **Fault-tolerant Razorpay integration** with idempotency & duplicate prevention
-- 🤖 **~90% reduction** in manual intervention across the print lifecycle
-
----
-
-### 💳 Razorpay Payment Processing System *(@ Pinnacle Teleservices)*
-> *Spring Boot · Webhook · Idempotent APIs · Cryptographic Validation*
-
-- Architected end-to-end distributed payment workflows handling duplicate requests, failed retries & async reconciliation
-- Engineered **CCAvenue + WhatsApp Payments** middleware with cron-driven 90-day archival
-
----
-
-### 📨 High-Throughput SMS Dispatch Engine *(@ Pinnacle Teleservices)*
-> *Spring WebClient · Multithreading · Batched Dispatching*
-
-- Built a multithreaded engine with concurrent per-member job retrieval
-- Achieved **20% throughput improvement** and **40% latency reduction** for bulk SMS operations
-- Integrated **WebEngage & MoEngage** connectors for omnichannel WhatsApp + SMS campaigns
-
----
-
-### 📊 Dockerized Grafana/Loki Observability Pipeline *(@ Pinnacle Teleservices)*
-> *Spring Boot · Docker · Grafana API · Loki*
-
-- Auto-provisions Loki datasources and generates full Grafana dashboards via API
-- Eliminated **15–20 minutes of manual setup** per environment
-
----
-
-### 🗺️ Geospatial Location Service *(@ Pinnacle Teleservices)*
-> *Ola Maps SDK · Geospatial Indexing · Nearest-Neighbor Search*
-
-- Integrated real-time location, routing & geocoding at scale
-- Implemented geospatial indexing for low-latency location lookups
-
----
-
-### 🏭 RakshaIOT — Entry/Exit Monitoring System *(@ Hixaa Technologies)*
-> *Python · PyInstaller · Raspberry Pi · Shell Scripting · RFID*
-
-Built for **NTPC (National Thermal Power Corporation)** — CR33 RFID reader integration
-
-- 🐚 Automated Pi deployment via shell script → saved **~20 min/deployment**
-- 📦 Packaged as standalone Linux executable → reduced download from **20–25 min to under 5 min**
-- 📋 Runtime error logging to CSV → cut debug time by **10–20 min/incident**
-
----
-
-### ⚡ EV Telematics Dashboard *(@ Hixaa Technologies)*
-> *ThingsBoard · IoT · Python*
-
-🏆 **Won 1st Place** at India's Biggest Electric Vehicle Innovation Challenge by **ICreate** — competing against **150+ teams nationwide**
-
----
-
-### 👁️ Employee Monitoring System *(@ Hixaa Technologies)*
-> *Python · Machine Learning · OpenCV · Real-time Face Recognition*
-
-- Real-time facial recognition with live employee data display on dashboard
-- Saved **~10 minutes/day** of manual attendance tracking per employee
-
----
-
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanishpophale53&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpophale53&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+### 🖨️ Priox — Smart QR-Based Printing Platform
+*`Spring Boot` `WebSocket` `AWS S3` `Razorpay` `Python` `Outbox Pattern`*
+
+</div>
+
+> The printing industry still runs on manual steps — Priox fixes that.
+
+A production-grade platform where users **scan → upload → pay → print** without a single manual handoff.
+
+```
+🔍 Scan QR Code
+    └──▶ 📄 Upload Document (AWS Pre-signed URL + Multipart)
+              └──▶ 💳 Pay Securely (Razorpay + Idempotency)
+                        └──▶ 🖨️ Auto Print Job Dispatched (WebSocket + Python Vendor Agent)
+                                  └──▶ ✅ ACK-based Order Confirmed
+```
+
+| Feature | Implementation |
+|---|---|
+| ⚡ Sub-second dispatch | WebSocket + Python-based vendor agent |
+| 🔁 Zero order loss | Outbox pattern + retry + polling fallback |
+| ☁️ Secure uploads | AWS pre-signed URLs + multipart |
+| 💳 Duplicate-safe payments | Razorpay idempotency + ACK tracking |
+| 🤖 ~90% automation | End-to-end print lifecycle |
+
+---
+
+<div align="center">
+
+### 💳 Payment Infrastructure @ Pinnacle Teleservices
+*`Spring Boot` `Razorpay` `CCAvenue` `WhatsApp Payments` `Cron Jobs` `Webhooks`*
+
+</div>
+
+```
+Payment Request ──▶ Idempotency Check ──▶ Gateway (Razorpay / CCAvenue / WA Pay)
+      │                                          │
+      ▼                                          ▼
+Webhook Listener ◀──── State Transition ◀── Cryptographic Validation
+      │
+      ▼
+Async Reconciliation ──▶ 90-day Archival (Cron) ──▶ Resolved ✅
+```
+
+---
+
+<div align="center">
+
+### 📨 High-Throughput SMS Engine @ Pinnacle
+*`Spring WebClient` `Multithreading` `WebEngage` `MoEngage` `Batch Processing`*
+
+</div>
+
+| Metric | Before | After |
+|---|---|---|
+| Throughput | Baseline | **+20%** |
+| Latency | Baseline | **-40%** |
+| Memory (large batches) | In-memory | Streamed to temp files |
+| Channels | Single | WhatsApp + SMS (Omnichannel) |
+
+---
+
+<div align="center">
+
+### 📊 Grafana/Loki Observability Pipeline @ Pinnacle
+*`Spring Boot` `Docker` `Grafana API` `Loki`*
+
+</div>
+
+```bash
+# Before: Manual setup per environment
+$ connect_to_grafana && add_loki_datasource && create_dashboard && configure_panels
+# ⏱️ ~15–20 minutes every time. Manual. Error-prone.
+
+# After: One pipeline run
+$ docker run tanish/grafana-provisioner --env=production
+# ✅ Done. Loki datasource + full dashboard generated via API. < 30 seconds.
+```
+
+---
+
+<div align="center">
+
+### 🏭 RakshaIOT — NTPC Entry/Exit Monitoring @ Hixaa
+*`Python` `PyInstaller` `Raspberry Pi` `Shell Scripting` `RFID`*
+
+</div>
+
+> Built for **National Thermal Power Corporation (NTPC)** — CR33 RFID reader integration for boiler factory worker monitoring.
+
+- 🐚 Shell-based Pi deployment → saved **~20 min/deployment**
+- 📦 PyInstaller packaging → **25 min → <5 min** download
+- 📋 CSV error logging → **10–20 min** faster debugging
+
+---
+
+<div align="center">
+
+### ⚡ EV Telematics Dashboard — ICreate Winner @ Hixaa
+*`ThingsBoard` `IoT` `Python`*
+
+</div>
+
+<div align="center">
+
+```
+🏆 1st Place  ·  India's Biggest EV Innovation Challenge  ·  ICreate  ·  150+ Teams
+```
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tanishpophale53&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="185"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishpophale53&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="185"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishpophale53&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="185"/>
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanishpophale53&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishpophale53&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## ⏳ My Developer Journey
+
+```
+2019 ──── 🎓 Started B.E. Computer Science @ GCE Nagpur
+            │
+2021 ──── 💼 Campus roles: MyCaptain · Coding Ninjas · PrepBytes (Sales & Leadership)
+            │   └── 🧠 Led a 15-member sales team · Doubled user acquisition
+            │
+2023 ──── 🎓 Graduated — Computer Science (CGPA: 7.71)
+            │
+Oct 2023 ─ 🐍 Python Developer Intern @ Hixaa Technologies
+            │   ├── 🏭 RakshaIOT for NTPC — RFID monitoring system
+            │   ├── ⚡ EV Telematics Dashboard → 🏆 Won ICreate National Challenge
+            │   ├── 👁️  Employee Monitoring System — ML + Face Recognition
+            │   └── 📦 PyInstaller: 25 min → <5 min deployment
+            │
+Dec 2024 ─ ☕ Java Backend Engineer @ Pinnacle Teleservices
+            │   ├── 💳 Razorpay + CCAvenue + WhatsApp Payments middleware
+            │   ├── 📨 SMS Engine: +20% throughput · -40% latency
+            │   ├── 📊 Grafana/Loki auto-provisioning pipeline
+            │   ├── 🗺️  Ola Maps SDK — geospatial indexing at scale
+            │   └── 🔐 Secure SMS microservice — RS256 JWTs · Redis JTI blacklist
+            │
+Mar 2026 ─ 🚀 Building Priox (Side Project)
+            │   └── QR-based smart printing platform — sub-second dispatch · 0 order loss
+            │
+  NOW ──── 📚 Deep-diving: Saga · CQRS · Event Sourcing · PgBouncer
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm actively open to backend engineering opportunities in **distributed systems**, **payment platforms**, or **developer infrastructure**.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishpophale53&theme=tokyonight&hide_border=true" height="180"/>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-pophale)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpophale@gmail.com)
 
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanishpophale53&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<br/>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Tanish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tanishpophale53&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-- 🔨 **Priox** — scaling the QR printing platform with better fault tolerance & vendor onboarding flows
-- 📚 **Deep-diving** into distributed systems design patterns (Saga, CQRS, Event Sourcing)
-- 🔐 **Strengthening** API security — RS256 JWTs, token blacklisting, rate limiting strategies
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-I'm open to backend engineering roles focused on **distributed systems**, **payment platforms**, or **developer infrastructure**.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-pophale)
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishpophale@gmail.com)
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 *"Reliable systems don't happen by accident — they're engineered."*
 
