@@ -1,8 +1,4 @@
 # Hi, I'm Tanish Pophale 👋
-
-### Java Backend Engineer | Spring Boot | Distributed Systems | Payments | Observability
-
-I build reliable backend systems that handle real-world traffic, failures, retries, and scale with confidence.
  
 <div align="center">
  
