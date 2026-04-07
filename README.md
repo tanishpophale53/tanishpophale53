@@ -100,8 +100,8 @@ Worked on **IoT systems, telemetry pipelines, and industrial monitoring solution
 
 ## 🏆 Achievements
 
-- 🥇 Architected fault-tolerant payment processing workflows with idempotent APIs and webhook-driven state transitions
-- 🚀 Built scalable backend systems for messaging, observability, and location workflows
+- 🥇 Developed production-grade chatbot automation systems
+- 🚀 Designed an EV Telematics Dashboard on ThingsBoard (IoT platform) that won 1st Place at India's Biggest Electric Vehicle Innovation Challenge by ICreate — competing against 150+ teams nationwide
 - ⚡ Improved SMS dispatch throughput by 20% and reduced latency by 40%
 - 📈 Reduced manual intervention by ~90% in the QR-based printing platform
 
