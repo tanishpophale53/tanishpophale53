@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-- 🎯 Currently working as *Jr. Software Developer at Pinnacle Teleservices Pvt. Ltd.*
+- 🎯 Currently working as *Senior Software Developer at Pinnacle Teleservices Pvt. Ltd.*
 - 🧩 Building backend systems around *payments, async processing, messaging & observability*
 - ⚙️ Focused on *reliability, scalability, and system consistency*
 - 🌱 Deep-diving into *distributed systems & cloud-native architecture*
